@@ -137,7 +137,7 @@ This makes the application easier to maintain and test.
 ### Notes App
 
 <p align="center">
-  <img src="screenshots/ui.png" alt="Notes App Screenshot" width="300">
+  <img src="screenshorts/ui.png" alt="Notes App Screenshot" width="300">
 </p>
 
 ## 📁 Screenshot Folder
